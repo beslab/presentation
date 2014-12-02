@@ -1,4 +1,4 @@
-#接下來要寫的 :   
+#接下來要寫的    
 
 ##EEG : 
 1. eeg plotting (EEGLab-eegplot)
@@ -18,3 +18,7 @@
 > _raw data -> feature extraction -> classification_   
 
 ##Others : 
+1. 
+
+###< ___Note___ > these should be done in winter vacation , current work should be studying MLAPP
+
